@@ -8,7 +8,7 @@ public static void main(String[] args) {
 ```
 위에 것 처럼 만들어 준다
 
-## sout
+## sout(프린트)
 sout을 치면
 ```
  System.out.println();
